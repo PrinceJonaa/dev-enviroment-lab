@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/PrinceJonaa/dev-enviroment-lab">
-        <imr src="https://i.imgur.com/vKSqGuX.png">
+        <img src="https://i.imgur.com/vKSqGuX.png">
     </a>
 
 # dev-enviroment-lab
